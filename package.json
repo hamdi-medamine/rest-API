@@ -1,0 +1,17 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "check point rest-api",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon sever.js"
+  },
+  "author": "HMA",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.9",
+    "nodemon": "^2.0.7"
+  }
+}
